@@ -73,7 +73,8 @@ The dashboard was built using **Excel Pivot Tables**, **Pivot Charts**, **Slicer
 
 ## 📷 Dashboard Preview
 
-![COVID Dashboard Preview](screenshot.png)
+![COVID Dashboard Preview](<img width="1557" height="573" alt="image" src="https://github.com/user-attachments/assets/b33c5169-fbfe-47e0-a8b8-70b62d9951c5" />
+)
 
 ---
 
