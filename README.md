@@ -1,89 +1,89 @@
-# 📊 COVID-19 India Dashboard (Excel Analysis)
+# 🦠 COVID-19 India Data Analysis Dashboard (Excel Project)
 
-## 🔍 Project Overview
+## 📌 Project Overview
 
-This project is an **interactive Excel Dashboard** that provides a detailed overview of the **COVID-19 pandemic in India**, focusing on state-wise and zone-wise statistics such as:
-- Total cases, deaths, and recoveries
-- Death and discharge ratios
-- Population impact
-- Top affected states
-- Zone-wise distribution
+This project presents an **interactive Excel dashboard** that visualizes the **COVID-19 impact across Indian states and regions**, using key health metrics and demographic data. It offers a clean and dynamic user interface for analyzing zone-wise and state-wise trends.
 
-The dashboard was built using **Excel Pivot Tables**, **Pivot Charts**, **Slicers**, and advanced formatting techniques to present data insights in a clean, professional, and interactive way.
+---
+
+## 📊 Dashboard Highlights
+
+| Metric                    | Value             |
+|--------------------------|------------------|
+| 🧍 Total Population       | 1.43 Billion      |
+| 🦠 Total Cases           | 34.4 Million      |
+| 💀 Total Deaths          | 463,530           |
+| 🏥 Active Cases          | 1.35 Lakh         |
+| ⚖️ Death Ratio Leader    | Punjab (2.75)     |
+| 💪 Discharge Ratio Lead  | Daman & Diu       |
+| 🧭 Highest Active Ratio  | Mizoram           |
+| ✅ Unaffected Population | 96%               |
 
 ---
 
 ## 💡 Key Features
 
-- 📌 **KPI Cards** showing:
-  - Total Population
-  - Total Deaths
-  - Total Active Cases
-  - Death & Discharge Ratios
-  - % of Population Unaffected
-
-- 📊 **Top 10 States by:**
+- **KPI Cards** for vital figures like total population, cases, deaths, and active cases.
+- **Top 10 States by:**
   - Deaths
   - Population
   - Active Cases
-
-- 🗂 **Zone-wise Analysis**:
-  - Average Active Case Ratio
-  - Average Discharge Ratio
-
-- 📈 **Dynamic Charts**:
-  - Pie Chart for Regional Distribution
-  - Bar Charts for State-wise COVID impact
-
-- 🎛️ **Interactivity** using slicers to filter:
-  - State/UTs
-  - Above/Below Average Death & Discharge Ratios
-
----
-
-## 📁 Files Included
-
-| File Name                    | Description                              |
-|-----------------------------|------------------------------------------|
-| `COVID19_India_Dashboard.xlsx` | Excel file containing the full dashboard |
-| `screenshot.png`            | Image preview of the dashboard layout     |
-| `README.md`                 | Project documentation (this file)        |
-
----
-
-## 🛠️ Tools Used
-
-- Microsoft Excel
-- Pivot Tables & Pivot Charts
-- Slicers & Dropdown Filters
-- Conditional Formatting
-- Custom Chart Labels & Card KPIs
-
----
-
-## 📌 Insights Gained
-
-- Maharashtra reported the highest number of deaths (140,565).
-- Mizoram had the highest active ratio.
-- Punjab had the highest death ratio among all states.
-- South and West zones had higher discharge rates than North and East.
-- 96% of India's population remained unaffected during the reporting period.
+- **Zone-Wise Analysis**:
+  - Average active and discharge ratios
+- **% of Population Affected by State**
+- **Top 5 States by Death Ratio**
+- **Pie Chart: Total Cases by Region**
+- **Interactive Filters**:
+  - Death Avg: Above/Below Average
+  - Discharge Avg: Above/Below Average
+  - State/UT slicers
 
 ---
 
 ## 📷 Dashboard Preview
 
-![COVID Dashboard Preview](<img width="1557" height="573" alt="image" src="https://github.com/user-attachments/assets/b33c5169-fbfe-47e0-a8b8-70b62d9951c5" />
-)
+![COVID-19 Dashboard Preview](screenshot.png)
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Slicers and Dropdowns
+- Conditional Formatting
+- KPI Metrics Design
+- Pie, Bar, and Column Charts
+
+---
+
+## 📈 Insights Uncovered
+
+- **Maharashtra** has the highest total death count: **140,565**
+- **Punjab** has the highest death ratio: **2.75**
+- **Mizoram** leads in active case ratio
+- **Daman & Diu** has the highest discharge rate
+- South zone shows better recovery than East and North
+- Only **4%** of India’s population was affected during this dataset range
+
+---
+
+## 📁 Project Files
+
+| File                      | Description                                 |
+|---------------------------|---------------------------------------------|
+| `COVID19_India_Dashboard.xlsx` | The Excel dashboard file                   |
+| `screenshot.png`          | Dashboard image preview                     |
+| `README.md`               | Project documentation (this file)           |
 
 ---
 
 ## 🚀 How to Use
 
 1. Download the `.xlsx` file.
-2. Open it in Microsoft Excel (preferably 2016 or later).
-3. Use slicers to filter data by **state/region/death & discharge averages**.
-4. Explore the interactive charts to gain insights into how COVID-19 impacted various parts of India.
+2. Open it in **Microsoft Excel (2016 or later)**.
+3. Use slicers and dropdowns to filter by region, state, or performance metrics.
+4. Explore interactive visualizations and gain insights.
 
 ---
 
@@ -95,6 +95,7 @@ The dashboard was built using **Excel Pivot Tables**, **Pivot Charts**, **Slicer
 
 ---
 
-## ⭐ Like this project?
+## ⭐ Star This Project
 
-If you found this useful or inspiring, feel free to ⭐ star this repo and share your feedback!
+If you find this helpful, consider starring the repo and sharing your feedback. Your support helps grow the open-source data analysis community!
+
